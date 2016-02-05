@@ -2365,7 +2365,7 @@ aside ul.nav-list > li > a {
 }
 
 .slider-container .tp-opacity-overlay {
-	background: rgba(0, 0, 0, 0.85);
+	background: rgba(0, 0, 0, 0.25);
 }
 
 .slider-container.transparent {
